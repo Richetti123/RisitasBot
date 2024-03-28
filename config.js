@@ -123,11 +123,11 @@ global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
 global.gt = "RisitasBot"
-global.yt = "https://www.instagram.com/ceogeripium.dzn"
-global.yt2 = "https://www.instagram.com/ceogeripium.dzn"
-global.ig = "https://www.instagram.com/ceogeripium.dzn"
-global.md = "https://www.instagram.com/ceogeripium.dzn"
-global.fb = "https://www.instagram.com/ceogeripium.dzn"
+global.yt = "https://www.instagram.com/gracielita_ff"
+global.yt2 = "https://www.instagram.com/gracielita_ff"
+global.ig = "https://www.instagram.com/gracielita_ff"
+global.md = "https://www.instagram.com/gracielita_ff"
+global.fb = "https://www.instagram.com/gracielita_ff"
 
 global.nna = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //CANAL UPDATE
 global.nn2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //UPDATE
